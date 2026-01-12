@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @nguimba
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning programing with Python
-- 💞️ I’m looking to collaborate on Data science
-- 📫 How to reach me !!
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+  I'm a data scientist with a strong background in machine learning, statistics, and data-driven decision making.
+  I enjoy turning messy data into meaningful insights and scalable models.
+- 👀 I’m interested in data ingineering
+- Tool i used Python( pandas/NumPy, scikit-learn, PyTorch...), SQL
 
 <!---
 nguimba/nguimba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
